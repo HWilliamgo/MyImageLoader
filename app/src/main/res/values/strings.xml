@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyImageLoader</string>
+
+    <string-array name="list_array">
+        <item>Hello </item>
+        <item>How are you</item>
+        <item>fine thank you</item>
+    </string-array>
+</resources>
